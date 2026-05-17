@@ -1,0 +1,10 @@
+sources:
+  - name: demo
+    database: demo
+    schema: dev
+    tables:
+      - name: inventory_transaction
+      - name: PRODUCT_CATEGORY_NULL
+      - name: PRODUCT_MASTER
+      - name: RECEIPT_TRANSACTION
+      - name: SHIPMENT_TRANSACTION
