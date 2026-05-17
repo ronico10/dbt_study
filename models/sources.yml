@@ -4,7 +4,7 @@ sources:
     schema: dev
     tables:
       - name: inventory_transaction
-      - name: PRODUCT_CATEGORY_NULL
-      - name: PRODUCT_MASTER
-      - name: RECEIPT_TRANSACTION
-      - name: SHIPMENT_TRANSACTION
+      - name: product_category_null
+      - name: product_master
+      - name: receipt_transaction
+      - name: shipment_transaction
